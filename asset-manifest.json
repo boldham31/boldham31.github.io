@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00a1e88e.chunk.css",
+    "main.js": "/static/js/main.5423a268.chunk.js",
+    "main.js.map": "/static/js/main.5423a268.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4b1766f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4b1766f9.js.map",
+    "static/js/2.acfdfc9b.chunk.js": "/static/js/2.acfdfc9b.chunk.js",
+    "static/js/2.acfdfc9b.chunk.js.map": "/static/js/2.acfdfc9b.chunk.js.map",
+    "static/js/3.25e5e1cc.chunk.js": "/static/js/3.25e5e1cc.chunk.js",
+    "static/js/3.25e5e1cc.chunk.js.map": "/static/js/3.25e5e1cc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.00a1e88e.chunk.css.map": "/static/css/main.00a1e88e.chunk.css.map",
+    "static/js/2.acfdfc9b.chunk.js.LICENSE.txt": "/static/js/2.acfdfc9b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/austin_skyline.dd56e157.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b1766f9.js",
+    "static/js/2.acfdfc9b.chunk.js",
+    "static/css/main.00a1e88e.chunk.css",
+    "static/js/main.5423a268.chunk.js"
+  ]
+}
